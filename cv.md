@@ -11,5 +11,4 @@ I'm an engeneer in a state organization. I have some experience in developing SP
 - English — B1 — Intermediate
 
 ### Higher education
-- 2020   BSUIR
-         Military Faculty
+- 2020   BSUIR, Military Faculty
